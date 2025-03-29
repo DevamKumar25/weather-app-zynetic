@@ -1,6 +1,6 @@
 # 🌦️ Weather App - Zynetic
 
-![Weather App](https://your-image-link.com)
+![Weather App]([https://your-image-link.com](https://github.com/DevamKumar25/weather-app-zynetic/issues/2#issue-2958324584))
 
 🚀 **Live Demo:** [Weather App - Zynetic](https://weather-app-zynetic-algn42npn-devamkumar25s-projects.vercel.app/)
 
