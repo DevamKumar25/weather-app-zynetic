@@ -20,7 +20,8 @@ Weather App - Zynetic is a modern and responsive weather application that allows
 - **Deployment:** Vercel
 
 ## 📸 Screenshots
-![Home Page](https://raw.githubusercontent.com/DevamKumar25/weather-app-zynetic/main/images/weather-app.png)
+![Home Page](https://github.com/DevamKumar25/weather-app-zynetic/blob/main/weather.png?raw=true)
+
 
 
 ## 📦 Installation
