@@ -1,7 +1,5 @@
 # 🌦️ Weather App - Zynetic
 
-![Weather App Screenshot](https://raw.githubusercontent.com/DevamKumar25/weather-app-zynetic/main/images/weather-app.png)
-
 
 🚀 **Live Demo:** [Weather App - Zynetic](https://weather-app-zynetic-algn42npn-devamkumar25s-projects.vercel.app/)
 
@@ -22,7 +20,8 @@ Weather App - Zynetic is a modern and responsive weather application that allows
 - **Deployment:** Vercel
 
 ## 📸 Screenshots
-![Home Page](https://your-screenshot-link.com)
+![Home Page](https://raw.githubusercontent.com/DevamKumar25/weather-app-zynetic/main/images/weather-app.png)
+
 
 ## 📦 Installation
 
